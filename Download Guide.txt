@@ -1,0 +1,53 @@
+───────────────────────────────────────────────
+         GTerminal 1.0 — Installation Guide
+───────────────────────────────────────────────
+
+GTerminal 1.0 is a lightweight desktop simulation system built with Python and Pygame. 
+It features a boot animation, draggable icons, windowed apps (Notepad, Paint, Calculator, Clock), 
+a terminal, a trash bin, and file saving.
+
+───────────────────────────────────────────────
+📦 Requirements
+
+- Operating System: Windows 7 / 10 / 11, Linux, or macOS
+- Python: Version 3.7 or higher (recommended: 3.10+)
+- Ram: 512 MB 
+- Free disk space: ~ 15 MB
+- Procesor: 1 GHz (Intel Pentium, Intel Atom, Intel Core 2 Duo)
+- GPU: Vram -- 64 - 128 MB -- Support 2D Basic Rendering --
+- Pip packages:
+    - pygame
+    - tkinter (usually included with Python)
+
+───────────────────────────────────────────────
+✅ Installation Steps
+
+1. Install the whole system each file separately
+
+2. If you install make sure everything is on desktop
+
+3. Group all files in 1 folder and name the folder "GTerminal"
+
+4. IMPORTANT!!! Make sure all the files are placed in the right order
+(if no system will not work properly!)
+
+5. Install python from Microsoft Store or from the website
+(recomend from Microsoft Store)
+
+6. Install dependencies:
+   pip install pygame
+
+7. Run the system:
+   python gterminal.py
+
+───────────────────────────────────────────────
+🧠 Tips
+
+- Press Ctrl+S in Notepad to save a file to the desktop.
+- Drag icons around the desktop or drop text files into the Trash.
+- Use the terminal at the bottom to launch apps or change settings.
+- Type //gterminal version// in the terminal to check the current version.
+
+───────────────────────────────────────────────
+Author: Mareen175
+───────────────────────────────────────────────
